@@ -1,0 +1,8 @@
+name: HelloWorld
+version: ${project.version}
+main: com.gmail.dubiansi3.helloworld.HelloWorld
+commands:
+  monkey:
+    description: HelloWorld
+    usage: /<command>
+    default: op
